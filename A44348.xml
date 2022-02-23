@@ -1,0 +1,1253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exposition of the principles of religion by Tho. Hooker.</title>
+            <author>Hooker, Thomas, 1586-1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44348</idno>
+            <idno type="STC">Wing H2647</idno>
+            <idno type="STC">ESTC R17496</idno>
+            <idno type="EEBO-CITATION">12865457</idno>
+            <idno type="OCLC">ocm 12865457</idno>
+            <idno type="VID">94728</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44348)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94728)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 384:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exposition of the principles of religion by Tho. Hooker.</title>
+                  <author>Hooker, Thomas, 1586-1647.</author>
+               </titleStmt>
+               <extent>[3], 58 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Dawlman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+               <term>Christianity --  Essence, genius, nature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94728:1"/>
+            <pb facs="tcp:94728:1" rendition="simple:additions"/>
+            <p>AN EXPOSITION OF THE PRINCIPLES OF <hi>RELIGION.</hi>
+            </p>
+            <p>BY <hi>THO: HOOKER.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for R. DAWLMAN. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:94728:2"/>
+            <pb n="1" facs="tcp:94728:2"/>
+            <head>AN EXPOSITION OF THE Principles of Religion.</head>
+            <div n="1" type="principle">
+               <head>
+                  <hi>The firſt Principle,</hi> There is one God, Creator and Go<g ref="char:EOLhyphen"/>vernour of all things, diſtinguiſh<g ref="char:EOLhyphen"/>ed into three Perſons, Father, Son, and holy Ghoſt.</head>
+               <p>Here we muſt conſider three things:
+<list>
+                     <item>1. That there is a God.</item>
+                     <item>2. His Works.</item>
+                     <item>3. That he is diſtinct.</item>
+                  </list>
+               </p>
+               <p>Queſt. <hi>WHat is the reaſon that there is a God?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. Becauſe in every thing there is a firſt cauſe, (that is, infi<g ref="char:EOLhyphen"/>niteneſſe and power) which can<g ref="char:EOLhyphen"/>not
+<pb n="2" facs="tcp:94728:3"/>not be attributed to any creature.</p>
+               <p n="2">2. Inregard that all things were made for <hi>man,</hi> man for an <hi>end,</hi> which end muſt needs be <hi>God.</hi>
+               </p>
+               <p>Q. <hi>But can we conceive of God as he is?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, becauſe of the great di<g ref="char:EOLhyphen"/>ſtance between him and us; for when a man looketh upon the Sun, he cannot poſſibly endure it, be<g ref="char:EOLhyphen"/>cauſe that is ſo glorious, and his eyes ſo feeble.</p>
+               <p>Q. <hi>How may we conceive of God?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. Caſt downe thy ſelfe be<g ref="char:EOLhyphen"/>fore him, confeſſing thy unfitneſſe to draw nigh him.</p>
+               <p n="2">2. Look how he is ſet forth in his Word, as a <hi>gracious, glorious, eternall</hi> being, without any mixture of infirmity or diſability. Man hath with <hi>power,</hi> weakneſſe; with <hi>mer<g ref="char:EOLhyphen"/>cy,</hi> cruelty; God hath not ſo.</p>
+               <p n="3">3. Goe into the world, and view the height of its glory, and then conclude, If the <hi>Creature</hi> be thus excellent, what muſt the <hi>Creator</hi> be?</p>
+               <p>Q. <hi>What is God?</hi>
+               </p>
+               <pb n="3" facs="tcp:94728:3"/>
+               <p>
+                  <hi>A.</hi> A Spirit that hath <hi>life</hi> and <hi>be<g ref="char:EOLhyphen"/>ing</hi> of himſelfe.</p>
+               <p>Q. <hi>What is a Spirit?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is the fineſt and ſubtileſt ſubſiſtence that can be.</p>
+               <p>Q. <hi>Why bad God rather be a</hi> Spi<g ref="char:EOLhyphen"/>rit <hi>then a</hi> Creature?</p>
+               <p>
+                  <hi>Anſ.</hi> 1. Becauſe that is the moſt pure and excellent eſſence.</p>
+               <p n="2">2. There is a great difference be<g ref="char:EOLhyphen"/>tween God and us; wee have a fleſhly part, he is all ſpirituall; we borrow our being, but God hath life of himſelfe, and gives being to every thing.</p>
+               <p n="3">3. That he is an infinite and Al<g ref="char:EOLhyphen"/>mighty God, the ſole Creator and Governour of all things.</p>
+               <p>Q. <hi>What is it to create?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To make <hi>ſomething</hi> of no<g ref="char:EOLhyphen"/>thing.</p>
+               <p>Q. <hi>Wherein doe Mans works, and Gods differ?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. Man muſt have ſome<g ref="char:EOLhyphen"/>thing to work upon, God needeth not any thing; a word of his mouth is ſufficient.</p>
+               <p n="2">2. Man is ſubject to be wea<g ref="char:EOLhyphen"/>ry,
+<pb n="4" facs="tcp:94728:4"/>but GOD cannot.</p>
+               <p>Q. <hi>What is meant by Govern<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A ſeaſonable ſuccouring and guiding of the Creature. Such is the weakneſſe of poore mortals, that as they were firſt made of no<g ref="char:EOLhyphen"/>thing, ſo unleſſe God upholds them, they will ſoon reſolve to their firſt nothingneſſe.</p>
+               <p>Q. <hi>What are the particulars of this Government?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two: Firſt, Suſtentation, Secondly, Direction.</p>
+               <p>Q. <hi>What is Suſtentation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The good providence of God, whereby he protects and provides for his people.</p>
+               <p>Q. <hi>What is Direction?</hi>
+               </p>
+               <p>
+                  <hi>H.</hi> A power of the Lord, where<g ref="char:EOLhyphen"/>by he orders every thing to its right end.</p>
+               <p>Q. <hi>How doth he direct the crea<g ref="char:EOLhyphen"/>ture to its end?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. God gives them directi<g ref="char:EOLhyphen"/>on wherby to work, and puts forth their ability into action.</p>
+               <p>Q. <hi>What may we learn from hence?</hi>
+               </p>
+               <pb n="5" facs="tcp:94728:4"/>
+               <p>
+                  <hi>Anſ.</hi> 1. Comfort to the Saints, ſeeing God is ſo great a Creator, and powerfull a Governour; there is no people under heaven (that worſhip any other God) are ſo bleſſed as they are: <hi>Among the Gods there is none like unto thee O Lord, neither are there any works like unto thy works. Pſal.</hi> 86.8.</p>
+               <p n="2">2. This ſhould teach us to mind Gods dealing with us in every paſ<g ref="char:EOLhyphen"/>ſage of our lives, and to ſtand in awe of his Majeſty.</p>
+               <p>Q. <hi>How is God diſtinguiſhed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Into three Perſons.</p>
+               <p>Q. <hi>What is meant by a</hi> Perſon?</p>
+               <p>
+                  <hi>A.</hi> A Perſon is a manner of Di<g ref="char:EOLhyphen"/>vine being.</p>
+               <p>Q. <hi>Why doe you ſay a</hi> being?</p>
+               <p>
+                  <hi>A.</hi> Becauſe the <hi>Deity</hi> and the <hi>Perſon</hi> is all one.</p>
+               <p>Q. <hi>Why doe you ſay a</hi> manner?</p>
+               <p>
+                  <hi>A.</hi> Becauſe there be divers tur<g ref="char:EOLhyphen"/>nings, that the God-head puts upon it ſelfe.</p>
+               <p>Q. <hi>How?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The God-head is full of wiſ<g ref="char:EOLhyphen"/>dome and underſtanding: Now the
+<pb n="6" facs="tcp:94728:5"/>Fathers <hi>underſtanding</hi> caſts it back againe upon himſelfe; for if he had underſtanding before the world; then there muſt needs be ſomewhat to be underſtood: but there was none but <hi>himſelf,</hi> therefore he caſts it back upon himſelf.</p>
+               <p n="2">2. This <hi>being</hi> underſtood is the <hi>Son,</hi> the wiſdome of the Father, and the third Perſon being willed is the <hi>Spirit,</hi> who notwithſtanding are all one. As long as a man tea<g ref="char:EOLhyphen"/>cheth, he is a Maſter; but when he is taught, he is a Scholar: practice comes from teaching; after a man is taught hee becomes a practicio<g ref="char:EOLhyphen"/>ner: here now be divers behavi<g ref="char:EOLhyphen"/>ours, yet all but one man. As a Sun beame falling upon a wall, caſts back its heat; ſo doth the Spirit, proceeding from the Father and the Son.</p>
+               <p>Queſt. <hi>What is that which is com<g ref="char:EOLhyphen"/>mon to all the Perſons?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The God-head is common to them all; and whatever is pro<g ref="char:EOLhyphen"/>per to the God-head, is proper to all the reſt; with this difference, in
+<pb n="7" facs="tcp:94728:5"/>regard of the particular relation that every one of them hath; the Fathers property being to <hi>beget,</hi> the Son to be <hi>begotten,</hi> and the Spi<g ref="char:EOLhyphen"/>rit to <hi>proceed:</hi> none of them excee<g ref="char:EOLhyphen"/>ding the other in <hi>time,</hi> but in <hi>order</hi> onely.</p>
+            </div>
+            <div n="2" type="principle">
+               <head>
+                  <hi>The ſecond Principle:</hi> Man wholly corrupted by <hi>Adams</hi> fall, became a ſlave of Sathan, and heire of Damnation.</head>
+               <p>Queſt. <hi>HOw muſt we conceive of</hi> Adams <hi>fall?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Look into the height of hap<g ref="char:EOLhyphen"/>pineſſe he once enjoyed, and the depth of miſery his ſin produced.</p>
+               <p>
+                  <hi>Q. Were any elſe in this eſtate?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No.</p>
+               <p>
+                  <hi>Q. How then came all creatures to have their being?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ſtamps of Gods Attri<g ref="char:EOLhyphen"/>butes were no farther upon them, then to put vertues into every one.</p>
+               <p>
+                  <hi>Q. Where may we conceive this vertue conſiſteth?</hi>
+               </p>
+               <pb n="8" facs="tcp:94728:6"/>
+               <p>
+                  <hi>A.</hi> In the ſoule and body of man.</p>
+               <p>
+                  <hi>Q. How in his ſoule?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. In the <hi>underſtanding, Adam</hi> by that was full of know<g ref="char:EOLhyphen"/>ledge and capable of Gods will. Secondly, in the <hi>will</hi> conſiſting in holineſſe and righteouſneſſe, God putting an aptneſſe into <hi>Adam</hi> to love him above all, and his Neigh<g ref="char:EOLhyphen"/>bour as himſelfe.</p>
+               <p>
+                  <hi>Q. How is Gods Image ſeen in the</hi> affections of men?</p>
+               <p>
+                  <hi>A.</hi> In regard of that ſweet Har<g ref="char:EOLhyphen"/>mony and agreement which the <hi>af<g ref="char:EOLhyphen"/>fection</hi> hath with the <hi>will.</hi>
+               </p>
+               <p>Queſt. <hi>How is Gods Image ſeene in the parts of the body?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> When they are ſubject to the reaſonable will and under<g ref="char:EOLhyphen"/>ſtanding in ſuch things as God commands.</p>
+               <p>Queſt. <hi>What is the</hi> Covenant <hi>God made with</hi> Adam?</p>
+               <p>
+                  <hi>Anſ.</hi> That which was of <hi>works,</hi> was, <hi>Doe this and live;</hi> by <hi>living</hi> is meant a promiſe which God made unto <hi>Adam,</hi> that if hee kept
+<pb n="9" facs="tcp:94728:6"/>Gods Commandements he would preſerve him for ever.</p>
+               <p>Queſt. <hi>Had onely</hi> Adam <hi>this?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It reacheth not to him onely, but to the good of all his poſterity.</p>
+               <p>Q. <hi>What are the ſignes of this Covenant?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. <hi>The Tree of life,</hi> which was a ſign and ſcale whereby God aſſured <hi>Adam,</hi> as ſure as he ſaw the <hi>Tree,</hi> if he obeyed his command, he ſhould live for ever.</p>
+               <p n="2">2. The tree of <hi>knowledge</hi> which perſwaded him, that if he obeyed God, hee ſhould certainly <hi>know good</hi> and <hi>evill.</hi>
+               </p>
+               <p>Qu. <hi>Did</hi> Adam <hi>fall from this eſtate?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, by the allurement of Satan in 3. reſpects:</p>
+               <p n="1">1. By pro<g ref="char:EOLhyphen"/>pounding his temptations unto him.</p>
+               <p n="2">2. In purſuing of him.</p>
+               <p n="3">3. In obtaining his deſire.</p>
+               <p>Q. <hi>How by propounding?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He came to <hi>Eve,</hi> changing himſelfe into a <hi>Serpent;</hi> Satan be<g ref="char:EOLhyphen"/>ing now falne from God, grudged
+<pb n="10" facs="tcp:94728:7"/>the happy eſtate that <hi>Adam</hi> was in, and thought much that he ſhould not be in the ſame condition with himſelfe, whereupon he tempted him.</p>
+               <p>Q. <hi>What was</hi> Eves <hi>anſwer?</hi>
+               </p>
+               <p>
+                  <hi>A. Of any tree of the Garden we may cate, but not of this, leſt</hi> perad<g ref="char:EOLhyphen"/>venture <hi>we dye;</hi> now he took ad<g ref="char:EOLhyphen"/>vantage of this, when ſhe began to <hi>doubt</hi> of Gods providence.</p>
+               <p>Q. <hi>How elſe did they fall?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By their owne <hi>free will</hi> at<g ref="char:EOLhyphen"/>tending to, and parlying with <hi>Sa<g ref="char:EOLhyphen"/>tan,</hi> in two reſpects:</p>
+               <p n="1">1. In a light eſteeme of Gods command.</p>
+               <p n="2">2. In their deluſion,</p>
+               <p n="1">1. Saying the fruit was <hi>good,</hi> when God ſaid the contrary:</p>
+               <p n="2">2. Hearkning to <hi>Satan,</hi> who told them it would be the cauſe of their good, and not e<g ref="char:EOLhyphen"/>vill, when as God told them when they eate thereof they ſhould dye the death.</p>
+               <p>Q. <hi>What is the third cauſe of their fall?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The holy and bleſſed Law of
+<pb n="11" facs="tcp:94728:7"/>God may after a meaſure be ſaid to have ſome influence therein.</p>
+               <p>Q. <hi>What came to Adam after this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He was made guilty and ly<g ref="char:EOLhyphen"/>able unto the <hi>Law</hi> and <hi>Curſe.</hi>
+               </p>
+               <p>Q. <hi>What followeth upon this guiltineſſe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Puniſhment.</p>
+               <p>Q. <hi>What was that?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Originall and actuall ſinne.</p>
+               <p>Q. <hi>What is originall ſinne?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A naturall depravation of the whole man.</p>
+               <p>Q. <hi>What is actuall ſinne?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A tranſgreſſion of the Law in the leaſt particular.</p>
+               <p>Q. <hi>Why did God puniſh them ſo ſeverely?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. Becauſe they ſinned a<g ref="char:EOLhyphen"/>gainſt an extraordinary Majeſty, loving Satan more then God.</p>
+               <p n="2">2. Becauſe they broke all the Commandements at once, which were included in theſe two, <hi>Love the Lord with all thy heart, and thy Neighbour as thy ſelfe.</hi>
+               </p>
+               <p>Q. <hi>Did Adam this onely to him<g ref="char:EOLhyphen"/>ſelfe?</hi>
+               </p>
+               <pb n="12" facs="tcp:94728:8"/>
+               <p>
+                  <hi>A.</hi> No, but to his poſterity.</p>
+               <p>Q. <hi>How commeth it ſo?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> We did then what ever hee did, for we were in his loynes, it was equall with God to appoint it ſo, becauſe that if he had done well we ſhould have been ſaved; now conſequently it muſt follow, that becauſe he ſinned, we muſt alſo be puniſhed.</p>
+               <p>Q. <hi>How did</hi> Adams <hi>ſinne become ours?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By imputation.</p>
+               <p>Q. <hi>What is imputation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That whereby the fault of one man is put upon another.</p>
+               <p>Q. <hi>How came we to have origi<g ref="char:EOLhyphen"/>nall ſinne?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By propagation in regard that <hi>Adam</hi> ſent his nature into us, and we become like him.</p>
+            </div>
+            <div n="3" type="principle">
+               <pb n="13" facs="tcp:94728:8"/>
+               <head>
+                  <hi>The third Principle.</hi> Concerning redemption by Chriſt.</head>
+               <p>Queſt. <hi>WAs our Redemption neceſſary?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, becauſe God determi<g ref="char:EOLhyphen"/>ned an end of his <hi>Creation,</hi> now man becauſe fallen, if he ſhould be deſtroyed, the end would be fru<g ref="char:EOLhyphen"/>ſtrate. Secondly, God had ordain<g ref="char:EOLhyphen"/>ed the glorification of his mercy in man; now had there been no Re<g ref="char:EOLhyphen"/>demption, where would the glory of his mercy appeare? Thirdly, the Elect fallen without this could have had no comfort.</p>
+               <p>
+                  <hi>Q. Who is this Redeemer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Jeſus Chriſt the ſecond Per<g ref="char:EOLhyphen"/>ſon in the Trinity, hee onely can ſubdue our enemies, and ſatisfie his Fathers wrath.</p>
+               <p>
+                  <hi>Q. Wherefore was Chriſt the fitteſt perſon in the Trinity?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. Becauſe hee could moſt prevaile with God, being his Son. Secondly, God being <hi>he</hi> who was
+<pb n="14" facs="tcp:94728:9"/>fully offended, it was not juſtice that he ſhould pay himſelfe.</p>
+               <p>
+                  <hi>Q. Why did Chriſt take the na<g ref="char:EOLhyphen"/>ture of man upon him?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Becauſe it was man that ſinned. Secondly, there muſt be a ſuffering as well as a ſatisfaction.</p>
+               <p>
+                  <hi>Q. Did Chriſt take upon him the</hi> perſon <hi>or</hi> nature <hi>of man?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The <hi>nature</hi> onely, for elſe there ſhould have been two per<g ref="char:EOLhyphen"/>ſons, which cannot be.</p>
+               <p>
+                  <hi>Q. How did Chriſt take mans nature upon him?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Holy Ghoſt ſanctified it, and then Chriſt took the ſame.</p>
+               <p>
+                  <hi>Q. What are thoſe things obſer<g ref="char:EOLhyphen"/>vable in this</hi> nature?</p>
+               <p>
+                  <hi>A.</hi> His union, and the manner of his conception.</p>
+               <p>
+                  <hi>Q. How is his</hi> union?</p>
+               <p>
+                  <hi>A.</hi> Inſeparable, for our <hi>nature</hi> could not be ſeparated from him; the eternall Sonne of God ſo tooke the nature of man, that when it met with him, it was not changed, but remained the ſame forever.</p>
+               <p>
+                  <hi>Q. How was Chriſt conceived?</hi>
+               </p>
+               <pb n="15" facs="tcp:94728:9"/>
+               <p>
+                  <hi>A.</hi> By the Holy Ghoſt, who at this time, and in this thing imita<g ref="char:EOLhyphen"/>ted the nature of man.</p>
+               <p>
+                  <hi>Q. Of whom was Chriſt con<g ref="char:EOLhyphen"/>ceived?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Of the Virgin <hi>Mary.</hi>
+               </p>
+               <p>
+                  <hi>Q. Why had not Chriſt a Father as well as a Mother?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Then had he been lyable to ſinne, which was principally im<g ref="char:EOLhyphen"/>puted to man.</p>
+               <p>
+                  <hi>Q. How did Chriſt ſuffer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By his Death, which was two-fold, <hi>corporall</hi> and <hi>ſpirituall;</hi> corporall, whereby his body was ſeparated from his ſoule; and ſpi<g ref="char:EOLhyphen"/>rituall, whereby hee was ſeparated from God.</p>
+               <p>
+                  <hi>Q. What things are to be obſer<g ref="char:EOLhyphen"/>ved in the death of the ſoule?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. The wrath of God and his anger againſt a man, of which Chriſt taſted: Secondly, the con<g ref="char:EOLhyphen"/>ſequences which are deſperation and continuall puniſhments, from which Chriſt was moſt free.</p>
+            </div>
+            <div n="4" type="principle">
+               <pb n="16" facs="tcp:94728:10"/>
+               <head>
+                  <hi>The fourth Principle.</hi> A ſinner of an humble and contrite ſpirit apprehends Chriſt by faith, and ſo is juſtified and ſanctified:</head>
+               <p>Here are two things;
+<list>
+                     <item>1. A prepa<g ref="char:EOLhyphen"/>ration.</item>
+                     <item>2. The Benefit.</item>
+                  </list>
+               </p>
+               <p>Queſt. <hi>WHat is contrition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When a ſin<g ref="char:EOLhyphen"/>ner is brought to ſuch a ſight of ſinne, that being en<g ref="char:EOLhyphen"/>forced to feele the burthen there<g ref="char:EOLhyphen"/>of, hee comes to bee ſequeſtred from it.</p>
+               <p>Q. <hi>How many things are here conſiderable?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three:</p>
+               <p n="1">1. A ſinner muſt be <hi>brought</hi> to a ſight of his ſinne.</p>
+               <p n="2">2. Hee muſt bee <hi>enforced</hi> to feele it.</p>
+               <p n="3">3. He muſt come to be <hi>ſequeſtred</hi> from it.</p>
+               <p>
+                  <hi>Q. Why doe you ſay, Brought to a ſight of his ſinne?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe of himſelfe he nei<g ref="char:EOLhyphen"/>ther
+<pb n="17" facs="tcp:94728:10"/>will nor can ſee his ſinne.</p>
+               <p>
+                  <hi>Q. What doe you meane by</hi> ſight?</p>
+               <p>
+                  <hi>A.</hi> A cleare and convicting ſight of ſinne.</p>
+               <p>
+                  <hi>Q. What is it to have cleare ſight of ſinne.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When a man ſees ſinne as it is in its colours.</p>
+               <p>
+                  <hi>Q. What is it to ſee ſinne con<g ref="char:EOLhyphen"/>victingly?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When a ſinner is perſwaded in his conſcience that that ſinne which the <hi>Miniſter</hi> and the <hi>Word of God</hi> ſpeakes of, is his own ſinne.</p>
+               <p>
+                  <hi>Q. What is meant by ſinne?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In ſinne there are two bran<g ref="char:EOLhyphen"/>ches, the evill of it, and the pu<g ref="char:EOLhyphen"/>niſhment of it.</p>
+               <p>
+                  <hi>Q. Which is worſe of theſe two?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The <hi>evill</hi> of ſinne, for</p>
+               <p n="1">1. that which deprives a man of the chie<g ref="char:EOLhyphen"/>feſt good, muſt needs be the grea<g ref="char:EOLhyphen"/>teſt evill, but ſinne deprives the ſoule of God the chiefeſt good.</p>
+               <p n="2">2. We ſee Chriſt could ſuffer pu<g ref="char:EOLhyphen"/>niſhment, but not be ſinfull.</p>
+               <p n="3">3. And God is oft the Author of puniſh<g ref="char:EOLhyphen"/>ment, but not of ſinne.</p>
+               <pb n="18" facs="tcp:94728:11"/>
+               <p>
+                  <hi>Q. What is the ſecond thing in the definition?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Hee is <hi>inforced to feele</hi> it, men would bee flying off from the meditation of this ſinne.</p>
+               <p>
+                  <hi>Q. How may a man feele his ſinne as he ſhould doe?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> By <hi>meditation</hi> and <hi>appli<g ref="char:EOLhyphen"/>cation.</hi>
+               </p>
+               <p>
+                  <hi>Q. How by</hi> meditation?</p>
+               <p>
+                  <hi>Anſw.</hi> 1. By conſidering what a GOD hee hath offended, how great mercy abuſed, and juſtice provoked, not onely in time of ignorance, but ſince wee knew him: Secondly, A ſerious medi<g ref="char:EOLhyphen"/>tation of the vile and filthy na<g ref="char:EOLhyphen"/>ture of ſinne.</p>
+               <p>
+                  <hi>Q. How doth the vileneſſe of ſin appeare?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It ſeparates us from Gods preſence, and procureth eternall miſery.</p>
+               <p>
+                  <hi>Q. How by</hi> application?</p>
+               <p>
+                  <hi>Anſw.</hi>
+               </p>
+               <p n="1">1. By convincing the heart of its loathſome conditon.</p>
+               <p n="2">2. By dogging the heart when
+<pb n="19" facs="tcp:94728:11"/>there is any occaſion of ſinne, and ſtill telling it of Gods judge<g ref="char:EOLhyphen"/>ment.</p>
+               <p>
+                  <hi>Q. Can any man of himſelfe doe this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, it muſt be Gods hum<g ref="char:EOLhyphen"/>bling hand.</p>
+               <p>
+                  <hi>Q. What doe you meane by</hi> ſeque<g ref="char:EOLhyphen"/>ſtred?</p>
+               <p>
+                  <hi>Anſ.</hi> When a mans hearts de<g ref="char:EOLhyphen"/>ſire and hungring, is to get out of ſinne, though hee cannot, ſay<g ref="char:EOLhyphen"/>ing with himſelfe, there is no rea<g ref="char:EOLhyphen"/>ſon why I ſhould be thus ruled by baſe luſts.</p>
+               <p>
+                  <hi>Q. What is</hi> humiliation?</p>
+               <p>
+                  <hi>Anſw.</hi> When the heart of a poore ſinner comes to deſpaire of all hope and helpe, either in himſelfe or any creature, and is contented to bee at Gods diſpo<g ref="char:EOLhyphen"/>ſing.</p>
+               <p>
+                  <hi>Q. How many things are to be conſidered in this definition?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Hee deſpaireth of all hope in himſelfe, or in the crea<g ref="char:EOLhyphen"/>tures, and is content to be at Gods diſpoſing.</p>
+               <pb n="20" facs="tcp:94728:12"/>
+               <p>
+                  <hi>Q. When doth a man come to this deſpaire?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When he ſeeketh to the world for ſuccour, and findes none.</p>
+               <p>
+                  <hi>Q. When is a man content</hi> to bee at Gods diſpoſe?</p>
+               <p>
+                  <hi>A.</hi> When he acknowledgeth he hath no good in himſelfe, and con<g ref="char:EOLhyphen"/>feſſes (if at any time God afflict him) that it is juſt with God ſo to doe, reſolving what ever trouble lyes upon him, ſtill to truſt and call upon God. <hi>Contrition</hi> and <hi>humi<g ref="char:EOLhyphen"/>liation</hi> are two graces which muſt be wrought in the ſoul before faith can enter in.</p>
+               <p n="1">1. Becauſe every naturall man hath ſinne to be his God, now there cannot be two Gods in any mans heart.</p>
+               <p n="2">2. Becauſe by <hi>faith</hi> we goe unto Chriſt to receive good at his hands; now one cannot goe to Chriſt be<g ref="char:EOLhyphen"/>fore he goe out of himſelfe; before we can get the <hi>pearle,</hi> we muſt <hi>ſell all that we have;</hi> now Chriſt is the <hi>pearle;</hi> wee muſt ſell all our cor<g ref="char:EOLhyphen"/>ruptions to enjoy him.</p>
+               <pb n="21" facs="tcp:94728:12"/>
+               <p>
+                  <hi>Q. What is faith?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A reſting upon God, groun<g ref="char:EOLhyphen"/>ded upon knowledge, and aſſurance that God is my God in Chriſt.</p>
+               <p>
+                  <hi>Q. How many things are inclu<g ref="char:EOLhyphen"/>ded in this knowledge?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A ſight of ſinne, and a ſenſe of it, which will produce three things:</p>
+               <p n="1">1. A prizing and ſeeking for mercy.</p>
+               <p n="2">2. No content in any thing, till we have obtained mercy.</p>
+               <p n="1">3. The teſtimony of Gods Spi<g ref="char:EOLhyphen"/>rit, which aſſureth Gods children their ſins are pardoned.</p>
+               <p>
+                  <hi>Q. What is meant by</hi> reſting <hi>up<g ref="char:EOLhyphen"/>on God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is diſcovered by two par<g ref="char:EOLhyphen"/>ticulars:</p>
+               <p n="1">1. Caſting our ſelves upon the Promiſe.</p>
+               <p n="2">2. A perſwaſion that they ſhall be fulfilled to us.</p>
+               <p>
+                  <hi>Q. What is Iuſtification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When a beleeving ſinner is ac<g ref="char:EOLhyphen"/>counted juſt in Gods ſight, through Chriſt, according to the Law.</p>
+               <pb n="22" facs="tcp:94728:13"/>
+               <p>
+                  <hi>Q. Why ſay you accounted?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe Juſtification puts nothing into us, nor findes nothing in us.</p>
+               <p>
+                  <hi>Q. Doth God justifie wicked men as they are in themſelves?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God provided another to be their ſurety, for whoſe ſake he ac<g ref="char:EOLhyphen"/>cepts them.</p>
+               <p>
+                  <hi>Q. Can one mans wiſedome, un<g ref="char:EOLhyphen"/>derſtanding and holineſſe be accoun<g ref="char:EOLhyphen"/>ted to another?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, if one mans offence be imputed to another, then may one mans righteouſneſſe; but <hi>Adams</hi> ſinne was imputed to us, <hi>Rom.</hi> 5. therefore Chriſts Righteouſneſſe may be accounted ours. If the <hi>Law</hi> be, that the ſurety may be puniſhed for the debt as well as the debtor, then may the ſureties ſatisfaction be accounted to the debtor, both becauſe the <hi>ſurety</hi> and the <hi>debtor</hi> tooke upon them the ſame thing, and ſubjected themſelves to the ſame condition.</p>
+               <p>
+                  <hi>Q. What doe we learn out of theſe words,</hi> according to the Law?</p>
+               <pb n="23" facs="tcp:94728:13"/>
+               <p>
+                  <hi>A.</hi> No man can be juſt, except he be in ſome meaſure anſwerable to the rule of juſtice.</p>
+               <p>
+                  <hi>Q. What did the Law require?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two things:</p>
+               <p n="1">1. <hi>Dying</hi> for ſinne.</p>
+               <p n="2">2. <hi>Doing</hi> that wee may live.</p>
+               <p>
+                  <hi>Q. Was our ſinne made Christs by commiſſion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, onely by imputation, for when Chriſt dyed to ſave us, did we dye alſo? no, onely his death was imputed to us.</p>
+               <p>
+                  <hi>Q. What doth Chriſt receive from us?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Guilt and puniſhment.</p>
+               <p>
+                  <hi>Q. What doe we receive from Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> His merits and obedience.</p>
+               <p>
+                  <hi>Q. Doth faith it ſelfe juſtifie a man?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> We are not juſtified by faith, for its but an inſtrument whereby we lay hold upon Chriſt, and ſo are juſtified.</p>
+               <p>
+                  <hi>Q. Muſt juſtification be joyned to ſanctification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, for juſtification goeth,
+<pb n="24" facs="tcp:94728:14"/>
+                  <hi>before,</hi> and ſanctification followes after.</p>
+               <p>
+                  <hi>Q. Wherein lyeth the difference?</hi>
+               </p>
+               <p>
+                  <hi>A. Iuſtification</hi> putteth nothing into a man, nor findeth any thing in a man: <hi>Sanctification</hi> puts a new frame of heart into us.</p>
+               <p>
+                  <hi>Q. But doth not God put grace into a juſtified ſinner?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, but he doth it by <hi>ſan<g ref="char:EOLhyphen"/>ctification,</hi> not by <hi>juſtification.</hi> We receive juſtification all at once, and that neither admits of increaſe, or decreaſe, but holineſſe is uſually increaſed, and decreaſeth many times.</p>
+               <p>
+                  <hi>Q. What is ſanctification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Its the reſtoring of a juſtified man into the image of God where<g ref="char:EOLhyphen"/>in he was created: Not a making new faculties in the ſoule, but put<g ref="char:EOLhyphen"/>ting them into right order; as when a clock falls in pieces (the wheels being not broken) the clock hath not new wheeles ſet into it, but they are new made againe.</p>
+               <p>
+                  <hi>Q. How many things be there in</hi> ſanctification?</p>
+               <pb n="25" facs="tcp:94728:14"/>
+               <p>
+                  <hi>A.</hi> Two: Mortification <hi>and</hi> Vi<g ref="char:EOLhyphen"/>vification.</p>
+               <p>
+                  <hi>Q. What is mortification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The firſt part of ſanctificati<g ref="char:EOLhyphen"/>on whereby ſinne is killed in us by the power of Chriſts death appli<g ref="char:EOLhyphen"/>ed unto us.</p>
+               <p>
+                  <hi>Q. Can ſinne be wholly ſubdued in a man?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, but it may be leſſened and filed away.</p>
+               <p>
+                  <hi>Q. Wherein lyes the difference between ſin in a wicked, and a godly man?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> There is the neereſt union that may be, between ſinne, and the ſoule of a wicked man: Sinne beareth greateſt rule here, and the ſoule yeelds greateſt ſubjection un<g ref="char:EOLhyphen"/>to it: He hath a ſecret reſolution to ſinne in ſpight of God and his Ordinances.</p>
+               <p>But in a godly man the power of ſinne is looſened, and the union broken, ſinne is not in him as a <hi>King,</hi> though it may be as a Tyrant.</p>
+               <p>
+                  <hi>Q. Can</hi> mortification <hi>and</hi> vivi<g ref="char:EOLhyphen"/>fication <hi>bee ſevered?</hi>
+               </p>
+               <pb n="26" facs="tcp:94728:15"/>
+               <p>A. No, where God beſtowes <hi>Mortification,</hi> there hee likewiſe beſtowes <hi>vivification.</hi>
+               </p>
+               <p>
+                  <hi>Q. Which goeth firſt?</hi>
+               </p>
+               <p>
+                  <hi>A. Mortification,</hi> for before we can receive Chriſt, we muſt make roome for him by caſting out all wickedneſſe.</p>
+               <p>
+                  <hi>Q. What is meant by this word</hi> vivification?</p>
+               <p>
+                  <hi>A.</hi> It is that part of ſanctificati<g ref="char:EOLhyphen"/>on whereby wee are quickned to newneſſe of life by Chriſt his Re<g ref="char:EOLhyphen"/>ſurrection applyed unto us.</p>
+               <p>
+                  <hi>Q. How is this wrought by Chriſts Reſurrection?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In ſinne wee muſt conceive there is.</p>
+               <p n="1">1. The <hi>guilt.</hi>
+               </p>
+               <p n="2">2. The <hi>pu<g ref="char:EOLhyphen"/>niſhment.</hi>
+               </p>
+               <p n="3">3. The <hi>power</hi> of it; the <hi>guilt</hi> and <hi>puniſhment</hi> Chriſt by his <hi>Death</hi> removed.</p>
+               <p>
+                  <hi>Q. But how did he take away the</hi> power <hi>of them?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> We having ſinned, Chriſt dy<g ref="char:EOLhyphen"/>ed, and roſe again for us, whereas ſin and Satan would have kept him in ſtill if they could, but hee came out by force.</p>
+            </div>
+            <div n="5" type="principle">
+               <pb n="27" facs="tcp:94728:15"/>
+               <head>
+                  <hi>The fift Principle: Faith</hi> commeth by hearing, and is ſtrengthned by the Word and Prayer.</head>
+               <p>Meanes to get and increaſe <hi>Faith.</hi>
+               </p>
+               <p>
+                  <hi>Queſt. How may we get faith?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> By the hea<g ref="char:EOLhyphen"/>ring of the Word preached.</p>
+               <p>
+                  <hi>Q. Why is Faith wrought by the Word?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe God hath promiſed a ſpeciall bleſſing thereunto, and the holy Spirit accompanies the ſame for this purpoſe.</p>
+               <p>
+                  <hi>Q. Why by the Word preached?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe the Word preached doth evidently reveale truths to the ſoule, and works more effectually upon a mans heart.</p>
+               <p>
+                  <hi>Q. How is Faith encreaſed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the <hi>Word, Sacraments,</hi> and <hi>Prayer.</hi> The Word addeth fu<g ref="char:EOLhyphen"/>ell unto Faith, provoking a man to come to Chriſt, by ſhewing</p>
+               <p n="1">1. the need we have of him, by reaſon of
+<pb n="28" facs="tcp:94728:16"/>our daily wants and infirmities:</p>
+               <p n="2">2. The all-ſufficiency of Chriſt to ſupply us:</p>
+               <p n="3">3. And his willingneſſe to receive all commers.</p>
+               <p>
+                  <hi>Q. When is</hi> Faith <hi>ſtrong?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi>
+               </p>
+               <p n="1">1. When it graſps as it were a whole handfull of Chriſt; a little child can graſp but a little of any thing.</p>
+               <p n="2">2. When it holdeth firmly that it catcheth hold upon.</p>
+               <p>
+                  <hi>Q. How doe the</hi> Sacraments <hi>ſtrengthen faith?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+               </p>
+               <p n="1">1. They preſent Chriſt neerly and viſibly to the ſoule.</p>
+               <p n="2">2. They ſhew Chriſts merits &amp; obedience, inflaming our hearts with love to him.</p>
+               <p>
+                  <hi>Q. What is Prayer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a going out of our ſelves to God, craving things anſwe<g ref="char:EOLhyphen"/>rable to his will.</p>
+               <p>
+                  <hi>Q. How a going to God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Not a bodily going, but the <hi>mind, affection,</hi> and <hi>underſtanding,</hi> ſtirting up themſelves to preſent their ſuit to him.</p>
+               <p>
+                  <hi>Q. Can a wicked man pray?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No,</p>
+               <p n="1">1. Becauſe true Prayer
+<pb n="29" facs="tcp:94728:16"/>is from the Spirit, and a ſanctified heart.</p>
+               <p n="2">2. Theſe men oppoſe what they beg for.</p>
+               <p>
+                  <hi>Q. How many parts be there in Prayer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two: <hi>Petition,</hi> which is a craving of that we want; and <hi>Thankſgiving,</hi> which is a giving God thanks for that we have.</p>
+               <p>
+                  <hi>Q. What is the pattern of Prayer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The <hi>Lords Prayer,</hi> which Chriſt gave to his Diſciples.</p>
+               <p>
+                  <hi>Q. Into how many parts is it di<g ref="char:EOLhyphen"/>vided?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Into three:</p>
+               <p n="1">1. A <hi>Preface,</hi>
+               </p>
+               <p n="2">2. Six <hi>Petitions,</hi>
+               </p>
+               <p n="3">3. A <hi>Thanksgiving.</hi>
+               </p>
+               <p>
+                  <hi>Q. What doe you meane by</hi> Fa<g ref="char:EOLhyphen"/>ther?</p>
+               <p>
+                  <hi>A.</hi> The firſt Perſon in the Trinity, who is the fountain from whence all we have floweth.</p>
+               <p>
+                  <hi>Q. How is God ſaid to be a Fa<g ref="char:EOLhyphen"/>ther?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi>
+               </p>
+               <p n="1">1. In regard of Chriſt,</p>
+               <p n="2">2. In regard of us.</p>
+               <p>
+                  <hi>Q. How is God the Father of Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi>
+               </p>
+               <p n="1">1. By naturall generation:</p>
+               <pb n="30" facs="tcp:94728:17"/>
+               <p n="2">2. By perſonall union.</p>
+               <p>
+                  <hi>Q. How is God a Father in re<g ref="char:EOLhyphen"/>gard of us?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi>
+               </p>
+               <p n="1">1. In regard of <hi>Creation,</hi> ſo the Angels are ſons of God:</p>
+               <p n="2">2. In regard of <hi>Adoption,</hi> which is the taking one in ſtead of a child.</p>
+               <p>
+                  <hi>Q. How may this word</hi> Father <hi>be a preparative to Prayer?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi>
+               </p>
+               <p n="1">1. If God be a Father, then he is <hi>bountifull,</hi> and we may receive what ever we aske.</p>
+               <p n="2">2. If God be a Father, he is <hi>mercifull,</hi> ready to par<g ref="char:EOLhyphen"/>don all our ſins.</p>
+               <p n="3">3. He will take in good part any ſervice done in truth of heart, though never ſo ſmall.</p>
+               <p>
+                  <hi>Q. Why doe we ſay</hi> Our <hi>Father?</hi>
+               </p>
+               <p>
+                  <hi>A. Our</hi> betokeneth a kind of propriety and intereſt; As we ſay, This is <hi>our</hi> houſe, we have a ſpeciall intereſt therein: So here it ſheweth a ſpeciall intereſt that Gods people have in him.</p>
+               <p n="2">2. Community of God to all his ſervants, as the light is common to all; none can ſay it is <hi>My Sun.</hi>
+               </p>
+               <p n="3">3. The fellow-feelingneſſe that the godly have of one anothers mi<g ref="char:EOLhyphen"/>ſery.</p>
+               <pb n="31" facs="tcp:94728:17"/>
+               <p>
+                  <hi>Q. What preparations are there in this Word to Prayer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It cauſeth <hi>Reverence;</hi> A child commeth reverently to his <hi>Father,</hi> ſo muſt we.</p>
+               <p n="2">2. It teacheth us <hi>confidence</hi> in God, becauſe he is <hi>our</hi> Father.</p>
+               <p>
+                  <hi>Q. Is God onely</hi> in heaven?</p>
+               <p>
+                  <hi>A.</hi> No, he filleth every place.</p>
+               <p>
+                  <hi>Q. Why is God ſaid to be in hea<g ref="char:EOLhyphen"/>ven?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. That we may take no<g ref="char:EOLhyphen"/>tice of his power; things above have advantage of things below.</p>
+               <p n="2">2. He is an holy God, for he is in heaven, where no uncleane thing is.</p>
+               <p>
+                  <hi>Q. What is the ſcope of the firſt Petition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That Gods name might be honoured of all his creatures.</p>
+               <p>Q. <hi>What is meant by</hi> name?</p>
+               <p>
+                  <hi>A. That</hi> whereby God is made knowne.</p>
+               <p>Q. <hi>How is God made knowne to us?</hi>
+               </p>
+               <pb n="32" facs="tcp:94728:18"/>
+               <p>
+                  <hi>Anſ.</hi>
+               </p>
+               <p n="1">1. By his titles and <hi>Attri<g ref="char:EOLhyphen"/>butes,</hi> as when God is ſaid to be <hi>ho<g ref="char:EOLhyphen"/>ly, gracious,</hi> &amp;c.</p>
+               <p n="2">2. By his <hi>Word:</hi> and</p>
+               <p n="3">3. by his <hi>works,</hi> eſpecially in the works of grace on the hearts of his children; there is Gods name written as it were in great letters, as the Apoſtle <hi>Peter</hi> ſaith, <hi>They ex<g ref="char:EOLhyphen"/>preſſe the graces of him that hath called them;</hi> ſo that when a man looketh upon a child of God, he may ſay, Surely God is an ho<g ref="char:EOLhyphen"/>ly God, becauſe his children are ſo.</p>
+               <p>
+                  <hi>Q. When doe we honour Gods, name?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When Gods name is to us as an holy thing; when we ſee the worth of it, and manifeſt it to o<g ref="char:EOLhyphen"/>thers.</p>
+               <p>Q. <hi>What is the ſcope of the ſecond Petition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That God may rule over all, eſpecially over his Church.</p>
+               <p>Q. <hi>Why is it added to the for<g ref="char:EOLhyphen"/>mer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe when God beareth rule, then his name is honoured.</p>
+               <pb n="33" facs="tcp:94728:18"/>
+               <p>Q. <hi>What doth this word</hi> King<g ref="char:EOLhyphen"/>dome <hi>ſignifie?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That rule which he exerci<g ref="char:EOLhyphen"/>ſeth over his ſervants.</p>
+               <p>
+                  <hi>Q. How manifold is this</hi> King<g ref="char:EOLhyphen"/>dome?</p>
+               <p>
+                  <hi>A.</hi> Twofold; the Kingdome of <hi>grace,</hi> and the Kingdome of <hi>glorie.</hi>
+               </p>
+               <p>
+                  <hi>Q. How doth God rule in the Kingdome of grace?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By his Spirit in the Word he ruleth the hearts of his ſervants, and aweth the hearts of hypocrites.</p>
+               <p>
+                  <hi>Q. How doth God rule in the Kingdome of glory?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Immediately by himſelf, ſhi<g ref="char:EOLhyphen"/>ning into their hearts, and filling them with his grace.</p>
+               <p>
+                  <hi>Q. What doe we meane by</hi> Thy Kingdome come?</p>
+               <p>
+                  <hi>Anſ.</hi>
+               </p>
+               <p n="1">1. We deſire that God would ſend his Goſpel to ſuch pla<g ref="char:EOLhyphen"/>ces, Nations, &amp; Countryes, as have not had it:</p>
+               <p n="2">2. That God would ſpread &amp; inlarge his Goſpel where it is:</p>
+               <p n="3">3. That God would confirm and ſtabliſh his Goſpel, and cauſe it to have better entertainment
+<pb n="34" facs="tcp:94728:19"/>where it is ſpread.</p>
+               <p>
+                  <hi>Q. What is the ſcope of the third Petition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That all humble ſubjection may be yeelded unto God.</p>
+               <p>Q. <hi>Why is this added unto the former?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe then Gods King<g ref="char:EOLhyphen"/>dome doth moſt of all come, when <hi>his will is done.</hi>
+               </p>
+               <p>Q. <hi>What is</hi> Gods will?</p>
+               <p>
+                  <hi>A.</hi> Gods good pleaſure touching the performance or bringing to paſſe of any thing.</p>
+               <p>Q. <hi>What is Gods ſecret will?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That which God reſerveth to himſelfe in his own counſaile.</p>
+               <p>Q. <hi>What is Gods revealed will?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That which he hath made known unto us in his Word.</p>
+               <p>Q. <hi>How muſt we be like the An<g ref="char:EOLhyphen"/>gels in obedience?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. In <hi>readineſſe;</hi> they are they are ſaid to have wings.</p>
+               <p n="2">2. In <hi>faithfulneſſe;</hi> they obey God in every thing; ſo muſt we.</p>
+               <p n="3">3. Their obedience is conſtant, ſo ſhould ours. Nothing ſhould hin<g ref="char:EOLhyphen"/>der
+<pb n="35" facs="tcp:94728:19"/>our ſpeedy and cheerfull obe<g ref="char:EOLhyphen"/>dience.</p>
+               <p>
+                  <hi>Q. What is the ſcope of the fourth Petition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> We deſire a comfortable ſup<g ref="char:EOLhyphen"/>ply of all things concerning this life.</p>
+               <p>
+                  <hi>Q. Why is this put firſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A man muſt have a being, be<g ref="char:EOLhyphen"/>fore a well-being; nature before grace.</p>
+               <p>
+                  <hi>Q. Why is</hi> bread <hi>put for all?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. Becauſe this is moſt ne<g ref="char:EOLhyphen"/>ceſſary for ſubſiſtence; All our en<g ref="char:EOLhyphen"/>deavours ayme at this.</p>
+               <p n="2">2. We deſire God would give us ability to uſe the means to attain it.</p>
+               <p n="3">3. That we may have a comfor<g ref="char:EOLhyphen"/>table uſe thereof, with a bleſſing attending it</p>
+               <p>
+                  <hi>Q. What doe you meane by</hi> give?</p>
+               <p>
+                  <hi>A.</hi> Firſt, that God would give us what we want.</p>
+               <p>Secondly, to continue and pre<g ref="char:EOLhyphen"/>ſerve ſtill what we have.</p>
+               <p>Thirdly, that God would give us an heart to make a right uſe thereof.</p>
+               <p>
+                  <hi>Q. Why doe you ſay</hi> us?</p>
+               <pb n="36" facs="tcp:94728:20"/>
+               <p>
+                  <hi>Anſ.</hi> Becauſe we muſt have a fellow-feeling of the neceſſities of <hi>others,</hi> we deſire God to give us, that we may help them.</p>
+               <p>
+                  <hi>Q. Why doe you ſay</hi> our daily bread?</p>
+               <p>
+                  <hi>A.</hi> Wee deſire here a right and title to theſe outward things: This title is two-fold;</p>
+               <p n="1">1. Divine, in regard of God:</p>
+               <p n="2">2. Politicke, in regard of men.</p>
+               <p>
+                  <hi>Q. Why do you ſay</hi> this day?</p>
+               <p>
+                  <hi>A.</hi> Firſt, it ſheweth that wee muſt take care for the time preſent. Secondly, wee deſire a mode<g ref="char:EOLhyphen"/>ration of theſe outward things. Thridly, we muſt daily pray and depend upon God for our bread.</p>
+               <p>Q. <hi>What rules may wee here learne for the ordering of our lives in the deſire of outward things?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. Wee muſt goe to God for every mercy, and acknowledge we receive all from him.</p>
+               <p n="2">2. Wee muſt onely look to the time preſent, not caring for the morrow.</p>
+               <p>Q. <hi>What is the ſcope of the fifth Petition?</hi>
+               </p>
+               <pb n="37" facs="tcp:94728:20"/>
+               <p>
+                  <hi>A. Iuſtification,</hi> or the forgive<g ref="char:EOLhyphen"/>neſſe of ſinne.</p>
+               <p>Q. <hi>What is meant by debts?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Sinnes.</p>
+               <p>Q. <hi>Why is ſinne called a debt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe it maketh us lyable to Gods judgements.</p>
+               <p>Q. <hi>Can God forgive our ſinnes without ſatisfaction?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, becauſe its againſt his juſtice.</p>
+               <p>Q. <hi>How then is this a mercy that God doth forgive us our ſinnes?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Gods mercy appeares in that he followes the Law againſt our ſurety, ſo that hee is made guilty and lyable to puniſhment, and we cleared. Is it not a great mercy, that our ſinnes may bee removed from us, and Chriſts righteouſneſſe imputed unto us?</p>
+               <p>Q. <hi>How farre muſt a man for<g ref="char:EOLhyphen"/>give another?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In the offence we muſt con<g ref="char:EOLhyphen"/>ſider three things:</p>
+               <p n="1">1. The breach of the Law.</p>
+               <p n="2">2. The wrong done to us.</p>
+               <p n="3">3. The inflicting vengeance for it.</p>
+               <pb n="38" facs="tcp:94728:21"/>
+               <p>Q. <hi>How farre may a man forgive the ſinne as a breach of the Law?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Onely thus farre he muſt de<g ref="char:EOLhyphen"/>ſire that God would not lay it to their charge; ſo Chriſt prayed, <hi>Father forgive them, for they know not what they doe.</hi>
+               </p>
+               <p>Q. <hi>Muſt a man alwaies forgive his enemie the wrongs and puniſh<g ref="char:EOLhyphen"/>ment done?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, when Gods glory and Religion is diſgraced thereby, and it may be for our brothers good.</p>
+               <p>Q. <hi>Doth God forgive us, be<g ref="char:EOLhyphen"/>cauſe we forgive others?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, He forgives us before wee can forgive others on a right ground.</p>
+               <p n="1">1. Becauſe all the mercy we have, wee receive from him.</p>
+               <p n="2">2. All wee have is but a drop in compariſon of that Ocean which is in God.</p>
+               <p n="3">3. Our mercy is mixed with cruelty and many oppoſiti<g ref="char:EOLhyphen"/>ons, but God is all compaſſion.</p>
+               <p>Q. <hi>What is the ſcope of the ſixth Petition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Sanctification.</p>
+               <p>Q. <hi>What doth</hi> temptation <hi>pro<g ref="char:EOLhyphen"/>perly ſignifie?</hi>
+               </p>
+               <pb n="39" facs="tcp:94728:21"/>
+               <p>
+                  <hi>A.</hi> A proving of grace, ſo God tempted <hi>Abraham,</hi> and proved his love: Here by <hi>temptation</hi> is meant a ſolicitation to commit evill.</p>
+               <p>
+                  <hi>Q. Why not tentation of triall?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe we ought rather to prav againſt this then againſt that.</p>
+               <p>
+                  <hi>Q. What doe you meane by</hi> deli<g ref="char:EOLhyphen"/>ver?</p>
+               <p>
+                  <hi>Anſ.</hi> 1. That God would give us a fore-fight of ſinne.</p>
+               <p n="2">2. That God would give us pow<g ref="char:EOLhyphen"/>er, that we be not thereby overta<g ref="char:EOLhyphen"/>ken.</p>
+               <p n="3">3 That God would recover us, being falne, and fortifie us againſt ſipne for time to come.</p>
+               <p>
+                  <hi>Q. What doe you meane by</hi> lead?</p>
+               <p>
+                  <hi>Anſ.</hi> 1. That God would let us have no occaſion of evill.</p>
+               <p>Secondly, if occaſions be offered, that he would ſo aſſiſt, and ſtreng<g ref="char:EOLhyphen"/>then, that they prevaile not againſt us.</p>
+               <p>Q. <hi>How hath God a hand in the ſinnes of men?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Whatſoever may be ſaid in the Law and Word of God, may
+<pb n="40" facs="tcp:94728:22"/>be ſaid of God; now the Law may be ſaid to have an hand in the ſins of men: As when counſell and ad<g ref="char:EOLhyphen"/>monition comes, the heart ſwells immediately; as when a thing is put into a channell, or any other place, the water increaſeth hugely, not becauſe there is any water put into it, but by oppoſition.</p>
+               <p>
+                  <hi>Q. What doe you mean by</hi> evill?</p>
+               <p>
+                  <hi>A.</hi> There is no kinde of evill worſe then the evill of ſinne and puniſhment: here is ſpecially meant the <hi>evill of ſinne,</hi> and alſo <hi>puniſh<g ref="char:EOLhyphen"/>ment,</hi> ſo farre as it may hinder us in the wayes of godlineſſe.</p>
+               <p>
+                  <hi>Q. Why do you ſay</hi> deliver us?</p>
+               <p>
+                  <hi>A.</hi> Here wee deſire that God would provide meanes for others good, and make us inſtruments to deliver them.</p>
+               <p n="1">1 In watching over their converſation.</p>
+               <p n="2">2 In telling them of that which is amiſſe.</p>
+               <p n="3">3 To follow it, and never leave till wee have convinced them of it.</p>
+               <p>Q. <hi>What is meant by</hi> King<g ref="char:EOLhyphen"/>dome?</p>
+               <p>
+                  <hi>A.</hi> The right ruling over his ſer<g ref="char:EOLhyphen"/>vants.
+<pb n="41" facs="tcp:94728:22"/>By <hi>power</hi> is meant, an abili<g ref="char:EOLhyphen"/>ty and ſufficiency to governe.</p>
+               <p>And by <hi>Glorie,</hi> is meant,</p>
+               <p n="1">1 The worſhip of God:</p>
+               <p n="2">2 The ſhining of Gods glory.</p>
+               <p>Q. <hi>Why doe you ſay</hi> Thy?</p>
+               <p>
+                  <hi>A.</hi> All this is in God: Se<g ref="char:EOLhyphen"/>condly, all that men have in the world is from God, therefore they muſt render all to his glory.</p>
+               <p>Q. <hi>What is</hi> Amen?</p>
+               <p>
+                  <hi>A.</hi> The voyce and word of faith. Q. <hi>What is here implyed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two things: 1 An earneſt deſire of what wee beg; as a man when his friend goeth beyond ſea, ſaith, The Lord be with you.</p>
+               <p n="2">2 A repoſe of our ſelves upon God, that he would grant our re<g ref="char:EOLhyphen"/>queſts, who hath promiſed, <hi>what<g ref="char:EOLhyphen"/>ever we aske in Chriſts Name, wee ſhall have it.</hi>
+               </p>
+            </div>
+            <div n="6" type="principle">
+               <pb n="42" facs="tcp:94728:23"/>
+               <head>
+                  <hi>The ſixt Principle:</hi> All men ſhall riſe with their bodies to judgement, the godly ſhall inherit the kingdome of Heaven, but repro<g ref="char:EOLhyphen"/>bates and unbeleevers ſhall bee caſt into hell fire with the Devill and his angels.</head>
+               <p>Qu. <hi>WHat are we to obſerve out of this Principle?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two things;</p>
+               <p n="1">1. The judge<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="2">2. The reward of every man: In the judgement we muſt obſerve two things:</p>
+               <p n="1">Firſt, the preparati<g ref="char:EOLhyphen"/>on to this judgement, that is the reſurrection.</p>
+               <p n="2">2. The judgement it ſelfe.</p>
+               <p>
+                  <hi>Q. What is reſurrection?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is the re-uniting and knit<g ref="char:EOLhyphen"/>ting the ſoule and body together, that were ſeparated by death.</p>
+               <p>
+                  <hi>Q. Why is it neceſſary that there muſt be a reſurrection?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> There are two grounds; one is taken from the juſtice, another from the mercy of God. Wicked men they have the happineſſe of this life, and therefore they muſt
+<pb n="43" facs="tcp:94728:23"/>have miſery in the life to come, elſe God were not juſt.</p>
+               <p>Againe, the godly are here in mi<g ref="char:EOLhyphen"/>ſery, and they that ſhould be moſt reſpected, have the worſt enter<g ref="char:EOLhyphen"/>tainment, therefore they muſt have a happineſſe in heaven. So the Au<g ref="char:EOLhyphen"/>thor to the <hi>Heb.</hi> ſaith, <hi>God is juſt that he ſhould not forget their la<g ref="char:EOLhyphen"/>bour of love.</hi> And the Apoſtle to the <hi>Theſſal. It is a righteous thing to render peace to you:</hi> it were unjuſt if they did not ſee ſome good dayes. <hi>Abraham</hi> tels <hi>Dives, Son, remem<g ref="char:EOLhyphen"/>ber thou in thy life time receivedſt thy pleaſure, and Lazarus paines; therefore now he is comforted, and thou art tormented.</hi> It was the ſpeech of Maſter <hi>Greenham,</hi> that <hi>wicked men have ſome good in them, therefore God gives them outward things, but they have an infinite e<g ref="char:EOLhyphen"/>vill, therefore they muſt periſh eter<g ref="char:EOLhyphen"/>nally.</hi>
+               </p>
+               <p>Secondly, Gods mercy hath pro<g ref="char:EOLhyphen"/>miſed heaven to his ſervants, there<g ref="char:EOLhyphen"/>fore there muſt be a Reſurrection; heaven is not here. There be two
+<pb n="44" facs="tcp:94728:24"/>ſorts of men that ſhall be judged: Firſt, thoſe that dye; Secondly, thoſe that live when Chriſt ſhall come.</p>
+               <p>Q. <hi>How doe the godly riſe a<g ref="char:EOLhyphen"/>gaine?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By Chriſts Reſurrection, be<g ref="char:EOLhyphen"/>cauſe Chriſt was dead, and they are his members; Chriſt being their Surety: and whatſoever he doth, he doth it not for himſelfe, but for them.</p>
+               <p>
+                  <hi>Q. How ſhall it be with the godly when Chriſt ſhall come?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They ſhall be freed from all ſinne and weakneſſe of body.</p>
+               <p>
+                  <hi>Q. Shall the ſame bodies ariſe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yea the ſame; God ſhall ga<g ref="char:EOLhyphen"/>ther together all the elect: He that is able to make all things of no<g ref="char:EOLhyphen"/>thing, is able to raiſe men, and ga<g ref="char:EOLhyphen"/>ther them out of the duſt; for it is leſſer to repaire a thing of the mat<g ref="char:EOLhyphen"/>ter that it is made of, then to make a thing of nothing.</p>
+               <p>Q. <hi>But is there no change in re<g ref="char:EOLhyphen"/>gard of ſubſtance?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Onely this; The qualities &amp;
+<pb n="45" facs="tcp:94728:24"/>conditions of the body ſhall be al<g ref="char:EOLhyphen"/>tered, the body ſhall be <hi>incorrupti<g ref="char:EOLhyphen"/>ble, immortall,</hi> whereas here we are ſubject to death and diſeaſes.</p>
+               <p>Secondly, the body ſhall bee ſpirituall; that is, there ſhall be no dependance upon any outward comforts. Here we muſt uſe meat and drink for preſervation of our lives; but there ſhall be no need of them. The Sadduces told Chriſt, Such an one had <hi>ſeven brethren, and they all married one woman one af<g ref="char:EOLhyphen"/>ter another; now ſay they, In the Reſurrection whoſe ſhall this wiſe be? and Chriſt ſaid to them, Ye erre not knowing the Scriptures; for in heaven they neither cate nor drinke, marrie, nor give in marriage, but are as the Angels;</hi> they need no meat nor apparel: So the godly ſhall be there.</p>
+               <p n="3">3. All imperfections and weak<g ref="char:EOLhyphen"/>neſſes ſhall then be taken away; If a man dyes ſick, he ſhall be whole when he riſes againe; If a man be lame, or if he were born blind, or if one dyed being a child, all theſe
+<pb n="46" facs="tcp:94728:25"/>ſhall be taken away then.</p>
+               <p>
+                  <hi>Object.</hi> But it ſeemes it ſhall not be the ſame body; for if a man ſhall have every limbe, and be perfect in every part, how can theſe things ſtand together?</p>
+               <p>
+                  <hi>Anſ.</hi> There is nothing added to the ſubſtance of the body, but only changed and increaſed; it is in the nature of many things to increaſe, when as nothing is added unto them: As may be obſerved in an Onyon, take a great Onyon, and hang it up in the houſe, and it will grow bigger and bigger; what is the cauſe of it? not becauſe any thing is added, but becauſe it ſpreads it ſelfe further; ſo then there ſhall be no new body, but the ſame ſub<g ref="char:EOLhyphen"/>ſtance enlarged and increaſed.</p>
+               <p>
+                  <hi>Q. But how comes it to paſſe that there ſhall be a change?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the immediate and im<g ref="char:EOLhyphen"/>mutuable aſſiſtance of Gods uphol<g ref="char:EOLhyphen"/>ding and ſupporting the body.</p>
+               <p>
+                  <hi>Q. What change ſhall there be of the ſoule?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The wicked ſhall be changed
+<pb n="47" facs="tcp:94728:25"/>fro<g ref="char:cmbAbbrStroke">̄</g> evil to worſe, there is ſin in the<g ref="char:cmbAbbrStroke">̄</g> here, but there is ſome reſtraining grace, either feare or profit prevails with them now, and keeps them from ſin, but there ſhall be no re<g ref="char:EOLhyphen"/>ſtraining grace at all, but al ſin then. 2. There Gods wrath ſhall be pow<g ref="char:EOLhyphen"/>red in a fuller meaſure then now.</p>
+               <p n="1">1. But the godly ſoules ſhall be freed from all finne and corruption that is now in them. 2. They ſhall have eternall life, and poſſeſſe God himſelfe as it were fully.</p>
+               <p>
+                  <hi>Vſe.</hi> How ſhould this ſtirre us up to thirſt after the day of our reſur<g ref="char:EOLhyphen"/>rection I here we have ſin and can<g ref="char:EOLhyphen"/>not doe good, but there all ſinne ſhall be taken away.</p>
+               <p>It ſhould comfort Gods ſervants, though it fare ill with them in this life, yet they ſhall be freed from all afflictions and miſeries one day.</p>
+               <p>
+                  <hi>Paul</hi> ſaith, <hi>If a Chriſtians hope were in this life onely, he were of all men moſt miſerable;</hi> for who are purſued, who are hated more then they?</p>
+               <p>Now come we to ſpeake of the
+<pb n="48" facs="tcp:94728:26"/>laſt judgement, wherein obſerve;</p>
+               <p n="1">1. There <hi>muſt be a day of judgment.</hi>
+               </p>
+               <p n="2">2. <hi>The perſons that muſt come to judgement.</hi>
+               </p>
+               <p n="3">3. <hi>The manner of judge<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+               <p n="4">4. <hi>Who ſhall proceed therein.</hi>
+               </p>
+               <p n="1">1. It is called the <hi>day of judge<g ref="char:EOLhyphen"/>ment,</hi> as the time of the Goſpell is <hi>the day of ſalvation,</hi> and the time of affliction <hi>the day of viſitation:</hi> So here the particular time God hath appointed to judge all men, is called the <hi>day of judgement;</hi> It is called alſo the <hi>laſt day,</hi> becauſe it ſhall be the laſt, and all others pre<g ref="char:EOLhyphen"/>pare to this; It is alſo called the <hi>Generall judgement,</hi> then all ſhall be judged, even thoſe that judge others here.</p>
+               <p>Q. <hi>Why is it neceſſary there muſt be a judgement? it ſeems there need not be a judgement, for the godly are now acquitted, and wicked men are condemned already in their own con<g ref="char:EOLhyphen"/>ſciences, that flie in their faces; why therefore muſt there be a judgment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God doth it for theſe two reaſons;</p>
+               <p n="1">1. That his glory might he more manifeſt, even the glory
+<pb n="49" facs="tcp:94728:26"/>of his <hi>juſtice;</hi> for what a great glo<g ref="char:EOLhyphen"/>ry is it, which all ſhall confeſſe, even the devils and damned, that God is juſt in all his proceedings againſt them?</p>
+               <p n="2">2. That Chriſts glo<g ref="char:EOLhyphen"/>ry might be made manifeſt; here he was judged, but then hee ſhall be Judge.</p>
+               <p>Q. <hi>When ſhall the day of judge<g ref="char:EOLhyphen"/>ment come? what ſhall be the time of it?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> For the particular time no man knowes; onely we muſt con<g ref="char:EOLhyphen"/>ceive thus much,</p>
+               <p n="1">1. That Anti<g ref="char:EOLhyphen"/>chriſt muſt bee deſtroyed before.</p>
+               <p n="2">2. The Jewes muſt imbrace the truth, and both <hi>Iewes</hi> and <hi>Gentiles</hi> muſt profeſſe the truth; after this there muſt be an univerſall decli<g ref="char:EOLhyphen"/>ning; as Chriſt ſaith, As it was in the daies of <hi>Noah,</hi> ſo now at Chriſts comming there ſhall be a wonder<g ref="char:EOLhyphen"/>full and fearefull declining, then it will be time for God to come.</p>
+               <p>Q. <hi>What uſe may we make of this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a ground of patience to the godly, let the wicked judge as they will, there will be another
+<pb n="50" facs="tcp:94728:27"/>judgement, ſaith <hi>Paul, I paſſe not to be judged of you:</hi> So we when wee are wronged and trod upon ſhould lift up our eyes and call to mind the laſt judgement, then our cauſes ſhall be heard, and we ſhall be righted.</p>
+               <p>
+                  <hi>Q. Who muſt be judged?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Every man, high and low, rich or poore, all are lyable.</p>
+               <p n="1">1. God that created every man, and hath given them ſeverall ta<g ref="char:EOLhyphen"/>lents, may juſtly call them to an account for the ſame.</p>
+               <p n="2">2. God is only wiſe, knowing how to do it, and able to bring all men to judgement; how ſhould this awe us from ſin, as God ſaith, <hi>Rejoice and take thy pleaſure, but re<g ref="char:EOLhyphen"/>member for all theſe things thou ſhalt come to judgement.</hi>
+               </p>
+               <p>Q. <hi>But for what ſhall we be cal<g ref="char:EOLhyphen"/>led to an account?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Apoſtle <hi>Paul</hi> ſaith, <hi>for what ever is done in the fleſh;</hi> Thoſe that diſhonour God, hee will pu<g ref="char:EOLhyphen"/>niſh; and thoſe which honor him, he will recompence.</p>
+               <pb n="51" facs="tcp:94728:27"/>
+               <p>Q. <hi>By what rule muſt every one be judged?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the <hi>Law,</hi> not by the <hi>Goſpel,</hi> becauſe all men have the <hi>Law</hi> given them, <hi>Rom.</hi> 1. 24. <hi>the Law is engraven in our hearts,</hi> that wee may be without excuſe; but every one hath not heard the <hi>Goſpel;</hi> many Nati<g ref="char:EOLhyphen"/>ons and people have not heard of Chriſt, therefore they can make their plea, when God ſhal ſay, Why did you not belceve in Chriſt and the Goſpel? Why Lord, ſay they, we never heard of Chriſt. 2. This judgement will be cleare and open. When as wicked men ſhall be con<g ref="char:EOLhyphen"/>demned by their works, God can then ſay, Have you not done thus and thus, committed theſe and theſe ſinnes? Have I not ſeen you? As <hi>Eliſha</hi> ſaid to his ſervant <hi>Gehaſi, Hath not my heart gone with thee?</hi> So God may ſay, Did not I ſee you do ſuch a thing? Then will hypo<g ref="char:EOLhyphen"/>crites be made known; Gods ju<g ref="char:EOLhyphen"/>ſtice will much appeare when the ungodly ſhall ſee their own wayes have ruined them.</p>
+               <pb n="52" facs="tcp:94728:28"/>
+               <p>
+                  <hi>Object.</hi> If this be ſo, then no man ſhall have a reward of glory.</p>
+               <p>
+                  <hi>A.</hi> There is a difference between <hi>juſtification</hi> and <hi>glorification,</hi> a man muſt be juſtified and ſanctified be<g ref="char:EOLhyphen"/>fore hee can performe any thing which God accepts. Now juſtifi<g ref="char:EOLhyphen"/>cation is by Chriſt, but glorifica<g ref="char:EOLhyphen"/>tion by workes. There is a twofold obedience, <hi>Legall</hi> and <hi>Evangeli<g ref="char:EOLhyphen"/>call,</hi> legally no man can obey God, (that is) in every point we cannot ſerve him ſo abſolutely and exactly as the Law requires.</p>
+               <p>Q. <hi>What is the difference between</hi> Legall <hi>and</hi> Evangelicall <hi>obedience?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. The Law layeth hold on a man, and bindes him to perfect and perſonall obedience.</p>
+               <p n="2">2. If a man can obey the Law, he may merit ſalvation; had <hi>Adam</hi> but obeyed the Lord in every point, as the <hi>Law</hi> required, hee might have challenged heaven, for that ſaith, <hi>Doe,</hi> and <hi>live.</hi>
+               </p>
+               <p>But now the Goſpel</p>
+               <p n="1">1. takes a<g ref="char:EOLhyphen"/>way the rigour of the Law;</p>
+               <p n="2">2. It doth not require exact obedience,
+<pb n="53" facs="tcp:94728:28"/>but ſincerity; the <hi>will</hi> and <hi>endea<g ref="char:EOLhyphen"/>vor,</hi> which is taken for the deed.</p>
+               <p n="3">3 A Chriſtian obeyeth God in his Sure<g ref="char:EOLhyphen"/>ty;</p>
+               <p n="4">4. By way of thankfulneſſe, not to merit: he that merits muſt bring ſomething in himſelfe, but we have nothing.</p>
+               <p n="1">1. This is a ground of exceeding comfort to Gods people; though their abilities be not great, yet if they are ſincere in heart, they may be comforted. It matters not how the world judgeth us, we ſtand not, nor fall to men, but to God: and therefore <hi>David</hi> being ſlandered by his malicious enemies, ſaith, <hi>Iudge me according to my righteouſneſſe;</hi> he was ſlandered as an <hi>Hypocrite,</hi> yet he deſireth God that he would look upon him according to the ſincerity of his heart. This comfor<g ref="char:EOLhyphen"/>ted <hi>Hezekiah</hi> upon his death-bed, <hi>Remember,</hi> ſaith he, <hi>O Lord, how I have walked before thee with an up<g ref="char:EOLhyphen"/>right heart.</hi>
+               </p>
+               <p n="2">2. It ſerves for terrour to all diſ<g ref="char:EOLhyphen"/>ſemblers, ſeeing God will judge them according to their workes,
+<pb n="54" facs="tcp:94728:29"/>there's no tricks to be uſed then: Here they labour to bleare the eyes of men, and to carry faire weather before them, that none can ſay black is their eye: But God ſha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l unbow<g ref="char:EOLhyphen"/>ell all; and ſay, This is the man who had ſuch cunning deviſes that men might not take notice of him, that had ſecret corners to commit ſinne in, &amp;c. 3. It ſhould teach us to abound in holy duties, becauſe we ſhall be judged by them; ſet ſome<g ref="char:EOLhyphen"/>what every day upon the ſcore, not to labour for profit, but to abound in godlineſſe. It is better to abound in duty then commodity; for a man ſhall be rewarded, not for that a man ſaith, but for that which a man hath done in the fleſh; labour then to abound in piety, that ſo your reward may be great, only look you do it uprightly, conſidering God be thy Judge.</p>
+               <p>Ob. <hi>But it is ſaid, The Father jud<g ref="char:EOLhyphen"/>geth no man, but hath committed all judgement to the Sonne.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God doth put it over to Chriſt and gives him power to judge the
+<pb n="55" facs="tcp:94728:29"/>world: As the King is ſaid to judge when others receive Authority from him to doe it.</p>
+               <p>Q. <hi>Why ſhall Chriſt judge all men?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That Chriſts glory might be knowne; here he was judged, but then hee ſhall judge, which is a ground of much comfort to Gods ſervants, ſeeing Chriſt that is their Saviour ſhall be their Judge.</p>
+               <p>Q. <hi>How ſhall Gods proceedings be?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By Books, as <hi>Iohn</hi> ſaith, <hi>Rev.</hi> 20.12. <hi>I ſaw the Books opened:</hi> there are two books, the book of <hi>Conſci<g ref="char:EOLhyphen"/>ence,</hi> and the book of Gods <hi>Preſci<g ref="char:EOLhyphen"/>ence,</hi> the Conſcience it is a thou<g ref="char:EOLhyphen"/>ſand witneſſes, &amp; God is ten thou<g ref="char:EOLhyphen"/>ſand; ſo then there are eleven thou<g ref="char:EOLhyphen"/>ſand witneſſes againſt a man: His conſcience will ſay, Are you a pro<g ref="char:EOLhyphen"/>feſſor, and will you do thus &amp; thus? <hi>And if our conſcience accuſe us, God is greater then our conſcience;</hi> Hee will ſet our ſins in order before us, and ſay, Look here, doe you not ſee your pride and filthines? God will write our ſins in the palms of our hands, that we may take notice of
+<pb n="56" facs="tcp:94728:30"/>them, he will diſcoverall that ever we did, to us. Now come wee to the ſentence it ſelfe.</p>
+               <p n="1">1. Upon the wicked, <hi>Depart from me yee curſed into everlaſting fire with the Devill and his angels:</hi> Herein we muſt conſider 2, things,</p>
+               <p n="1">1. The puniſhment of loſſe.</p>
+               <p n="2">2. The puniſhment of ſence; the puniſh<g ref="char:EOLhyphen"/>ment of loſſe, <hi>depart from me;</hi> wic<g ref="char:EOLhyphen"/>ked men muſt bee baniſhed from Gods preſence.</p>
+               <p>
+                  <hi>Ob.</hi> But <hi>David</hi> ſaith, <hi>Pſ.</hi> 139. <hi>If I go into heaven, thou art there; if I goe downe into the deep, thou art there;</hi> How then are the wicked ſeparated from God?</p>
+               <p>
+                  <hi>Anſ.</hi> They cannot depart from the preſence of his anger and pow<g ref="char:EOLhyphen"/>er; but they neither find nor feele the work of any of Gods comfor<g ref="char:EOLhyphen"/>table Attributes: God is mercifull, but this is nothing to them: Hee that hath not God, cannot have any reſt. Who is it that gives us reſt by our ſl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ep, but God in ſleep? ſo who is it that ſtrengthens us by meat, but God in meat? &amp;c.</p>
+               <pb n="57" facs="tcp:94728:30"/>
+               <p>But now they wanting God, muſt needs be miſerable withall: They ſhall be utterly out of hope to attaine happineſſe and life; there ſhall bee ſalvation, but none for them, they have nothing to do with it, and this is the greateſt miſery of the damned in hell, that they are ſeparated from the preſence of <hi>God.</hi>
+               </p>
+               <p n="2">2. The puniſhment of <hi>ſoule,</hi> that is, they muſt be caſt into hell fire, which is ſet forth by two things:</p>
+               <p n="1">1. The worm ſhall never dye.</p>
+               <p n="2">2. The fire never goeth out.</p>
+               <p n="1">1. The worme is the ſting of conſcience, that is compared to a worme, for as a worme gnaweth a man continually, ſo conſcience is continually gnawing a mans heart.</p>
+               <p n="2">2. They ſhall be caſt into hell fire, that is, they ſhall bee filled with the vengeance of God, they have here but a drop of it, as it were; if we conſider all the puniſhments that all the men of the world have had and ſuffered, they are nothing to this, but as a flea-biting in com<g ref="char:EOLhyphen"/>pariſon of this: That which is the
+<pb n="58" facs="tcp:94728:31"/>worſt, their wickedneſſe ſhall in<g ref="char:EOLhyphen"/>creaſe daily, though they be full of Gods vengeance, yet their ſin ſhall increaſe it ſtill.</p>
+               <p>Q. <hi>But if the wicked are full of Gods vengeance, how can their pu<g ref="char:EOLhyphen"/>niſhments be increaſed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They ſhall every day be made more capable of bearing puniſh<g ref="char:EOLhyphen"/>ment: As a glaſſe, though it bee full, yet if it be made bigger, it will hold more: So, though a man bee full of miſery, yet by ſinne he ſhall be made capable to ſuffer more and more. It ſhall be eternall, there ſhall be no end of their miſery, for their puniſhment ſhall encreaſe daily, ſo that a man ſhall be a De<g ref="char:EOLhyphen"/>vill incarnate, as it were.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:94728:31"/>
+         </div>
+      </body>
+   </text>
+</TEI>
